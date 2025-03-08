@@ -1,4 +1,3 @@
-```markdown
 # Boletaria Reborn
 
 **Boletaria Reborn** is an open-source project focused on decompiling, recompiling, and porting *Demon's Souls (PS3)* to PC. Our goal is to analyze the original game, replace PS3-specific functions, and rebuild it for modern hardware while preserving the original experience.
